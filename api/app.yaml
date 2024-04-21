@@ -1,0 +1,6 @@
+runtime: nodejs18
+env: standard
+
+env_variables:
+  MONGO_CONNECTION_STRING: "mongodb+srv://esvelasc:qdHK7Xwqq8PhvdRT@cluster0.2mqkya2.mongodb.net/restaurant?retryWrites=true&w=majority"
+
